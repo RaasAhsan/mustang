@@ -1,6 +1,6 @@
 # mustang
 
-mustang is both an SSH key distribution service and an SSH-over-WebSocket tunnel.
+mustang is an SSH key distribution service and an SSH-over-WebSocket tunnel.
 
 ## Commands
 
