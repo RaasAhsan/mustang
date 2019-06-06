@@ -2,6 +2,13 @@
 
 mustang is an SSH key distribution service and an SSH-over-WebSocket tunnel.
 
+## Components
+
+- Key generation server
+- Local WebSocket proxy
+- SSH WebSocket server
+- SSH over WebSocket proxy
+
 ## Commands
 
 ```shell
