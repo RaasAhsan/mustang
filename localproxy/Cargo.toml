@@ -1,0 +1,7 @@
+[package]
+name = "localproxy"
+version = "0.1.0"
+authors = ["Raas Ahsan <agro@jantox.com>"]
+edition = "2018"
+
+[dependencies]

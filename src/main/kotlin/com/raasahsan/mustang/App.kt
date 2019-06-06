@@ -13,6 +13,8 @@ fun main(args: Array<String>) {
     server.start(wait = true)
 }
 
+// TODO: Catch exceptions and perform proper error handling
+
 fun Application.module() {
     routing {
         get("/") {
