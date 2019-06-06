@@ -1,5 +1,9 @@
 # mustang
 
+mustang is both an SSH key distribution service and an SSH-over-WebSocket tunnel.
+
+## Commands
+
 ```shell
 # Generate a CA key pair
 ssh-keygen -f ca -t rsa -b 4096 -f ca -N '' -C CA
